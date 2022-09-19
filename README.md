@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Mrityunjay Sarkar</h1>
 <h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA Backend Tech. & DSA. Passionate about implementing and launching new projects. Ability to work well in team-oriented and collaborative projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.</h3>
