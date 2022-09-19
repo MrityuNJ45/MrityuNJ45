@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
 <h1 align="center">Hi 👋, I'm Mrityunjay Sarkar</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA Backend Tech. & DSA. Passionate about implementing and launching new projects. Ability to work well in team-oriented and collaborative projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunj45&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunj45" /> </p>
 
@@ -12,11 +11,13 @@
 
 - 🌱 I’m currently learning **Hibernate, Springboot, SQL**
 
+- 👨‍💻 All of my projects are available at [mrityunj45.github.io](mrityunj45.github.io)
+
 - 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **mrityunjaysorcar@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am a great Cook.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrityunj45&show_icons=true&locale=en" alt="mrityunj45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrityunj45&" alt="mrityunj45" /></p>
+
 
