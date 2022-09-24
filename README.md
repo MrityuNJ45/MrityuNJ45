@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Hibernate, Springboot, SQL**
 
-- 👨‍💻 All of my projects are available at mrityunj45.github.io
+- 👨‍💻 All of my projects are available at **mrityunj45.github.io**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
