@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Hibernate, Springboot, SQL**
+- 🌱 I’m currently learning **Hibernate, Springboot**
 
 - 👨‍💻 All of my projects are available at <a href="mrityunj45.github.io">**mrityunj45.github.io**</a>
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Java, SQL**
 
 - 📫 How to reach me **mrityunjaysorcar@gmail.com**
 
