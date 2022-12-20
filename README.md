@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [mrityunj45.github.io](https://mrityunj45.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Java, SQL,Hibernate, Spring, Springboot.**
 
