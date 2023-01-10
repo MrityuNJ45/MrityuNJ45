@@ -58,6 +58,8 @@
 </td></tr></table>  </div>
 
 <br/> 
+
+### GITHUB STATS
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunj45&show_icons=true&locale=en&layout=compact" alt="mrityunj45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrityunj45&show_icons=true&locale=en" alt="mrityunj45" /></p>
