@@ -17,10 +17,9 @@
 
 - ⚡ Fun fact **I think I am a great Cook.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mrityunjay-sarkar-7a50b4165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrityunjay-sarkar-7a50b4165/" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me 👉 **[LinkedIn](https://www.linkedin.com/in/jyoti-pardhi-5b783b14b)**
+
+
 <h1 align="center">Tech Skills</h1>
 <div align="center"><table><tr><td valign="top" width="33%">
 
