@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [mrityunj45.github.io](https://mrityunj45.github.io/)
 
-- 💬 Ask me about ** Java, SQL, Hibernate, Spring, Springboot, Maven, HTML, CSS, Javascript,. **
+- 💬 Ask me about **Java, SQL, Hibernate, Spring, Springboot, Maven, HTML, CSS, Javascript,.**
 
 - 📫 How to reach me **mrityunjaysorcar@gmail.com**
 
