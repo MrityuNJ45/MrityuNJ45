@@ -1,3 +1,5 @@
+![Background img](https://rishavanand.github.io/static/images/greetings.gif)
+
 <h1 align="center">Hi 👋, I'm Mrityunjay Sarkar</h1>
 <h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA Backend Tech. & DSA. Passionate about implementing and launching new projects. Ability to work well in team-oriented and collaborative projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.</h3>
 
@@ -11,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [mrityunj45.github.io](https://mrityunj45.github.io/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Java, SQL,Hibernate, Spring, Springboot.**
+- 💬 Ask me about ** Java, SQL, Hibernate, Spring, Springboot, Maven, HTML, CSS, Javascript,. **
 
 - 📫 How to reach me **mrityunjaysorcar@gmail.com**
 
 - ⚡ Fun fact **I think I am a great Cook.**
 
-- 📫 How to reach me 👉 **[LinkedIn](https://www.linkedin.com/in/jyoti-pardhi-5b783b14b)**
+- 📫 How to reach me 👉 **[LinkedIn](https://www.linkedin.com/in/mrityunjay-sarkar-7a50b4165/)**
 
 
 <h1 align="center">Tech Skills</h1>
