@@ -61,9 +61,4 @@
 
 <br/> 
 
-<h1 align="center">Github Stats</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunj45&show_icons=true&locale=en&layout=compact" alt="mrityunj45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrityunj45&show_icons=true&locale=en" alt="mrityunj45" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrityunj45&" alt="mrityunj45" /></p>
